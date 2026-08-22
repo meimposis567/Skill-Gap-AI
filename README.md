@@ -451,11 +451,21 @@ are used under their own licenses.
 
 ## 📜 License
 
-**Copyright © 2026 Akash S M, Akash S, Chandru P, and Aaron Marshall A. All Rights Reserved.**
+**Copyright © 2026 Akash S M, Akash S, Chandru P, Aaron Marshall A. All Rights Reserved.**
 
-This project is proprietary. Viewing for personal reference and academic evaluation is
-permitted; reproduction, modification, redistribution, or commercial use requires prior
-written permission from the copyright holders. See [LICENSE](LICENSE) for the full terms.
+This project is released under a **Proprietary Software License — All Rights Reserved**.
+It is **not** open source.
+
+| | |
+|---|---|
+| ✅ **Permitted** | Viewing and reading the source in this repository for personal study, academic assessment, peer review, or recruitment review. |
+| ❌ **Not permitted** | Copying, modifying, redistributing, deploying, hosting, commercial use, incorporating into another project, or submitting as your own academic work. |
+
+Any use beyond the permitted scope requires the prior written consent of **all four**
+copyright holders. Third-party dependencies remain the property of their respective owners
+and are governed by their own licenses.
+
+See [LICENSE](LICENSE) for the full and binding terms.
 
 ---
 
