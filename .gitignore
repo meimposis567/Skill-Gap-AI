@@ -1,0 +1,144 @@
+# ─────────────────────────────────────────────
+# Dependencies
+# ─────────────────────────────────────────────
+node_modules/
+jspm_packages/
+bower_components/
+.pnp
+.pnp.js
+
+# ─────────────────────────────────────────────
+# Secrets & environment variables  (NEVER COMMIT)
+# ─────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.cert
+*.crt
+secrets.json
+credentials.json
+serviceAccount*.json
+
+# ─────────────────────────────────────────────
+# Build output / bundlers
+# ─────────────────────────────────────────────
+dist/
+dist-ssr/
+build/
+build/Release
+out/
+.next/
+.nuxt/
+.vite/
+.cache/
+.parcel-cache/
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.fusebox/
+.serverless/
+.vuepress/dist
+*.tsbuildinfo
+*.local
+
+# ─────────────────────────────────────────────
+# Logs & diagnostics
+# ─────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# ─────────────────────────────────────────────
+# Test coverage & caches
+# ─────────────────────────────────────────────
+coverage/
+*.lcov
+.nyc_output/
+.npm/
+.eslintcache
+.yarn-integrity
+.node_repl_history
+*.tgz
+
+# ─────────────────────────────────────────────
+# Python / ML service
+# ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ─────────────────────────────────────────────
+# Runtime data
+# ─────────────────────────────────────────────
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ─────────────────────────────────────────────
+# User uploads (resumes contain personal data)
+# ─────────────────────────────────────────────
+backend/uploads/*
+!backend/uploads/.gitkeep
+!backend/uploads/resumes/
+backend/uploads/resumes/*
+!backend/uploads/resumes/.gitkeep
+
+# ─────────────────────────────────────────────
+# Local scratch / debug scripts & generated reports
+# These contain live tokens, DB dumps and personal data
+# ─────────────────────────────────────────────
+scratch/
+backend/scratch*.js
+backend/test-*.js
+backend/check-db.js
+backend/db-report.js
+backend/list-models.js
+backend/run-*.js
+backend/extract-pdf.js
+backend/extract-pdf.py
+*.txt
+!requirements.txt
+
+# ─────────────────────────────────────────────
+# Editors & OS metadata
+# ─────────────────────────────────────────────
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ─────────────────────────────────────────────
+# Project documents (internal review material)
+# ─────────────────────────────────────────────
+architecture/
+stitch_ai_skill_gap_dashboard_ui/
+*.pdf
+problem.md
+filestructurebackend.md
+frontend-plan.md
+frontendfilestructure.md
+steps.md
