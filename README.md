@@ -407,22 +407,6 @@ Skill-Gap-AI/
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] **Live job-market integration** — pull real postings (Adzuna / LinkedIn) so role requirements update from actual demand rather than a static database.
-- [ ] **Embedding-based skill matching** — replace string heuristics with vector similarity for genuinely semantic partial matching.
-- [ ] **Resume rewriting assistant** — generate an ATS-optimised resume that surfaces skills the user already has but has phrased poorly.
-- [ ] **Multi-format ingestion** — DOCX, LinkedIn profile URLs, and GitHub profile analysis.
-- [ ] **Time-to-readiness estimation** — predict how many weeks of study close a given gap, based on skill difficulty.
-- [ ] **Peer benchmarking** — anonymised comparison against others targeting the same role.
-- [ ] **Interview simulator** — voice-based mock interviews with scored, structured feedback.
-- [ ] **Recruiter dashboard** — bulk candidate screening with transparent, explainable match reasoning.
-- [ ] **Mobile application** — React Native client for on-the-go progress tracking.
-- [ ] **Automated testing & CI** — Jest + Supertest for the API, pytest for the ML service, GitHub Actions pipeline.
-- [ ] **Containerised deployment** — Docker Compose orchestrating all three services.
-
----
-
 ## 👥 Team & Credits
 
 Developed as a Computer Science and Engineering project at
