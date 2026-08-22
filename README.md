@@ -409,8 +409,7 @@ Skill-Gap-AI/
 
 ## 👥 Team & Credits
 
-Developed as a Computer Science and Engineering project at
-**PSNA College of Engineering and Technology, Dindigul**.
+Skill Gap AI was designed and built by:
 
 | Member | GitHub |
 |---|---|
